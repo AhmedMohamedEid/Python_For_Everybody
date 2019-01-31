@@ -1,0 +1,9 @@
+
+
+
+
+
+SELECT hex(name || age) AS X FROM Ages ORDER BY X
+
+The first Output After Run this Query 
+4A61796D693138
