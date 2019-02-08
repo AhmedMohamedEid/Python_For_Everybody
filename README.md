@@ -10,4 +10,4 @@
  04. <a href="https://www.coursera.org/learn/python-databases?specialization=python">Using Databases with Python</a><br>
  05. <a href="https://www.coursera.org/learn/python-data-visualization">Capstone: Retrieving, Processing, and Visualizing Data with Python</a><br>
 
-<img src="https://s3.amazonaws.com/coursera_assets/xdp/umich.svg" style="background-color:#000" />
+<img src="https://s3.amazonaws.com/coursera_assets/xdp/umich.svg"  style="background: #ddd;" alt="University of Michigan"/>
